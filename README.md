@@ -1,0 +1,2 @@
+# sekilphp
+PHP calismasi
